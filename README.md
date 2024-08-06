@@ -69,3 +69,8 @@ Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 ✨ Actualmente, estoy buscando nuevas oportunidades en [sector/interés específico]. Si tienes un proyecto interesante o una colaboración en mente, ¡no dudes en contactarme!
 
 
+## 📊 GitHub Analytics
+
+![TuNombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macu-Data&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Macu-Data&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
