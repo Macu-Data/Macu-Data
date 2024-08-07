@@ -21,7 +21,9 @@ Soy un apasionado de la analítica de datos con experiencia en [tus áreas de es
 ## 📈 Proyectos Destacados
 
 ### Analytica Solutions
-Descripción breve del proyecto. [Enlace al proyecto](https://github.com/No-Country-simulation/c19-111-m-data-bi)
+Este proyecto analiza el abandono de carrito en una plataforma de e-commerce. El objetivo es identificar las razones detrás de este comportamiento y proponer estrategias para mejorar la retención de clientes y aumentar las conversiones. Utilizamos herramientas de visualización de datos y técnicas de análisis de comportamiento del cliente para llevar a cabo este estudio.
+
+Para más detalles y acceso al proyecto completo, visita el repositorio:[GitHub Project](https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
 ### Digital House
 Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
