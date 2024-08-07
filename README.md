@@ -3,10 +3,10 @@
 
 <!-- Banner -->
 <div align="center" style="position: relative;">
-  <a href="https://tusitioportafolio.com" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/fabio-maculus-data-analyst/" style="text-decoration: none;">
     <img src="https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png" alt="[Tu Nombre] - Data Analytics" width="800" height="200" style="opacity: 0.9;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 32px;">
-      [Tu Nombre] - Data Analytics Professional
+      Fabio Maculus - Data Analyst
     </div>
   </a>
 </div>
