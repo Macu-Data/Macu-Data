@@ -17,10 +17,10 @@ Soy un apasionado de la analítica de datos con experiencia en [tus áreas de es
 <!-- Proyectos Destacados -->
 ## 📈 Proyectos Destacados
 
-### [Nombre del Proyecto 1]
-Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto1)
+### [Analytica Solutions]
+Descripción breve del proyecto. [https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
-### [Nombre del Proyecto 2]
+### [Digital House]
 Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 
 <!-- Experiencia y Habilidades -->
@@ -33,14 +33,14 @@ Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 <!-- Contacto -->
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)  
-- [Correo Electrónico](mailto:tuemail@dominio.com)  
-- [Sitio Web Personal](https://tusitioportafolio.com)  
+- [LinkedIn](https://www.linkedin.com/in/fabio-maculus-data-analyst/)  
+- [Correo Electrónico](maculus32@gmail.com)  
+
 
 <!-- Footer o Información Adicional -->
 ---
 
-✨ Actualmente, estoy buscando nuevas oportunidades en [sector/interés específico]. Si tienes un proyecto interesante o una colaboración en mente, ¡no dudes en contactarme!
+✨ Actualmente, estoy buscando nuevas oportunidades en el análisis de datos. Si tienes un proyecto interesante o una colaboración en mente, ¡no dudes en contactarme!
 
 
 ## 📊 GitHub Analytics
