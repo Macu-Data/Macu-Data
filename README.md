@@ -40,9 +40,9 @@ Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 <!-- Experiencia y Habilidades -->
 ## 💼 Experiencia y Habilidades
 
-- **Análisis de Datos:** [Herramientas y lenguajes que dominas]
-- **Visualización de Datos:** [Herramientas que usas]
-- **Gestión de Datos:** [Herramientas y tecnologías relacionadas]
+- **Análisis de Datos:** SQL, Excel Avanzado, técnicas de análisis de comportamiento del cliente
+- **Visualización de Datos:** Power BI, Tableau, herramientas de visualización de datos
+- **Gestión de Datos:** Bases de datos SQL, herramientas ETL, automatización de procesos
 
 
 <!-- Contacto -->
