@@ -41,9 +41,9 @@ Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [Gi
 <!-- Experiencia y Habilidades -->
 ## 💼 Experiencia y Habilidades
 
-- **Análisis de Datos:** SQL, Excel Avanzado, técnicas de análisis de comportamiento del cliente
-- **Visualización de Datos:** Power BI, Tableau, herramientas de visualización de datos
-- **Gestión de Datos:** Bases de datos SQL, herramientas ETL, automatización de procesos
+- **Análisis de Datos:** SQL, Excel Avanzado, técnicas de análisis de comportamiento.
+- **Visualización de Datos:** Power BI, Tableau.
+- **Gestión de Datos:** Bases de datos SQL, herramientas ETL.
 
 
 <!-- Contacto -->
