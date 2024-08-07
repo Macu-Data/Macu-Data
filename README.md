@@ -1,36 +1,3 @@
-## Hi there 👋
-
-<div align="center" style="position: relative;">
-  <a href="https://tu-sitio-web.com" style="text-decoration: none;">
-    <img src="ruta/a/tu/imagen.jpg" alt="Portafolio de [Tu Nombre]" width="400" height="200" style="opacity: 0.7; filter: blur(1px);">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
-      🔗 Visitar Mi Portafolio
-    </div>
-  </a>
-</div>
-
-
-
-**Macu-Data/Macu-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Ideas para empezar
-🔭 Actualmente estoy trabajando en...
-
-🌱 Actualmente estoy aprendiendo...
-
-👯 Estoy buscando colaborar en...
-
-🤔 Estoy buscando ayuda con...
-
-💬 Pregúntame sobre...
-
-📫 Cómo contactarme:...
-
-😄 Pronombres:...
-
-⚡ Dato curioso:...
-
-
 
 <!-- Banner -->
 <div align="center" style="position: relative;">
