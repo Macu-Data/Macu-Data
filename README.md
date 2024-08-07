@@ -27,7 +27,9 @@ Este proyecto analiza el abandono de carrito en una plataforma de e-commerce. El
 Para más detalles y acceso al proyecto completo, visita el repositorio: [GitHub Project](https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
 ### Digital Energy
-Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
+Es un proyecto centrado en la expansión internacional de una empresa argentina de hidrocarburos. Nuestro objetivo es identificar los mercados más atractivos para invertir, utilizando una base de datos interna complementada con información externa. Implementamos herramientas de análisis para evaluar indicadores clave y definir estrategias de inversión en nuevas regiones.
+
+Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [GitHub Project](ruta/al/proyecto2)
 
 ### Repositorios.
 
