@@ -24,7 +24,7 @@ Soy un apasionado de la analítica de datos con más de doce años de experienci
 ### Analytica Solutions
 Este proyecto analiza el abandono de carrito en una plataforma de e-commerce. El objetivo es identificar las razones detrás de este comportamiento y proponer estrategias para mejorar la retención de clientes y aumentar las conversiones. Utilizamos herramientas de visualización de datos y técnicas de análisis de comportamiento del cliente para llevar a cabo este estudio.
 
-Para más detalles y acceso al proyecto completo, visita el repositorio: [GitHub Project](https://github.com/No-Country-simulation/c19-111-m-data-bi)
+Para más detalles y acceso al proyecto completo, visita el repositorio: ['GitHub Project'](https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
 ### Digital Energy
 Es un proyecto centrado en la expansión internacional de una empresa argentina de hidrocarburos. Nuestro objetivo es identificar los mercados más atractivos para invertir, utilizando una base de datos interna complementada con información externa. Implementamos herramientas de análisis para evaluar indicadores clave y definir estrategias de inversión en nuevas regiones.
