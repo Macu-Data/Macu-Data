@@ -10,17 +10,17 @@
 </div>
 
 <!-- Introducción -->
-## 👋 ¡Hola! Soy [Tu Nombre]
+## 👋 ¡Hola! Soy Macu
 
 Soy un apasionado de la analítica de datos con experiencia en [tus áreas de especialización]. Me especializo en [tecnologías/herramientas que utilizas, por ejemplo, Python, SQL, Power BI] y tengo un enfoque en [tu área de interés, como la optimización de procesos o la visualización de datos].
 
 <!-- Proyectos Destacados -->
 ## 📈 Proyectos Destacados
 
-### [Analytica Solutions]
-Descripción breve del proyecto. [https://github.com/No-Country-simulation/c19-111-m-data-bi)
+### Analytica Solutions
+Descripción breve del proyecto. [Enlace al proyecto](https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
-### [Digital House]
+### Digital House
 Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 
 <!-- Experiencia y Habilidades -->
