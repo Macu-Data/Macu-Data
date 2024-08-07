@@ -11,9 +11,11 @@
   </a>
 </div>
 
+
+
 <!-- Introducción -->
 
-Soy un apasionado de la analítica de datos con experiencia en [tus áreas de especialización]. Me especializo en [tecnologías/herramientas que utilizas, por ejemplo, Python, SQL, Power BI] y tengo un enfoque en [tu área de interés, como la optimización de procesos o la visualización de datos].
+Soy un apasionado de la analítica de datos con más de doce años de experiencia en contabilidad y análisis de datos. Me especializo en SQL, Power BI y Excel Avanzado, y tengo un enfoque en la optimización de procesos y la visualización de datos. Durante mi carrera, he trabajado en proyectos que abarcan desde el análisis de datos y conciliaciones bancarias hasta la creación de bases de datos y la preparación y análisis de Estados Financieros (EECC).
 
 
 
@@ -23,7 +25,7 @@ Soy un apasionado de la analítica de datos con experiencia en [tus áreas de es
 ### Analytica Solutions
 Este proyecto analiza el abandono de carrito en una plataforma de e-commerce. El objetivo es identificar las razones detrás de este comportamiento y proponer estrategias para mejorar la retención de clientes y aumentar las conversiones. Utilizamos herramientas de visualización de datos y técnicas de análisis de comportamiento del cliente para llevar a cabo este estudio.
 
-Para más detalles y acceso al proyecto completo, visita el repositorio:[GitHub Project](https://github.com/No-Country-simulation/c19-111-m-data-bi)
+Para más detalles y acceso al proyecto completo, visita el repositorio: [GitHub Project](https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
 ### Digital House
 Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
