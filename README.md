@@ -45,6 +45,10 @@ Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [`G
 - **Visualización de Datos:** Power BI, Tableau.
 - **Gestión de Datos:** Bases de datos SQL, herramientas ETL.
 
+<!-- intereses -->
+## ⚡ Intereses
+
+- AGREGAR INTERESES
 
 <!-- Contacto -->
 ## 📫 Contacto
