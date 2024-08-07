@@ -26,14 +26,14 @@ Este proyecto analiza el abandono de carrito en una plataforma de e-commerce. El
 
 Para más detalles y acceso al proyecto completo, visita el repositorio: [GitHub Project](https://github.com/No-Country-simulation/c19-111-m-data-bi)
 
-### Digital House
+### Digital Energy
 Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 
 ### Repositorios.
 
-|                               Analytica Solutions                              |                               Digital House                                    |
+|                               Analytica Solutions                              |                               Digital Energy                                   |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|  <img src="https://github.com/No-Country-simulation/c19-111-m-data-bi/blob/main/img/carro-compra-sobre-pantalla-tablet.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/5oBAwpQ.png" style="height: 50%; width:50%;"/>  |
+|  <img src="https://github.com/No-Country-simulation/c19-111-m-data-bi/blob/main/img/carro-compra-sobre-pantalla-tablet.png" style="height: 50%; width:50%;"/>   |  <img src="https://i.imgur.com/5oBAwpQ.png" style="height: 50%; width:50%;"/>  |
 
 
 
