@@ -34,7 +34,8 @@ Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [Gi
 
 |                               Analytica Solutions                              |                               Digital Energy                                   |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|  <img src="https://github.com/No-Country-simulation/c19-111-m-data-bi/blob/main/img/carro-compra-sobre-pantalla-tablet.png" style="height: 50%; width:50%;"/></a>  <a href="https://github.com/No-Country-simulation/c19-111-m-data-bi/"> |  <img src="https://github.com/Macu-Data/Digital-Energy/blob/main/Imagen/LOGO.png" style="height: 50%; width:50%;"/> <a href="https://github.com/Macu-Data/Digital-Energy/"></a>  |
+| <a href="https://github.com/No-Country-simulation/c19-111-m-data-bi/">
+  <img src="https://github.com/No-Country-simulation/c19-111-m-data-bi/blob/main/img/carro-compra-sobre-pantalla-tablet.png" style="height: 50%; width:50%;"/></a>  |  <a href="https://github.com/Macu-Data/Digital-Energy/"> <img src="https://github.com/Macu-Data/Digital-Energy/blob/main/Imagen/LOGO.png" style="height: 50%; width:50%;"/></a>  |
 
 
 
