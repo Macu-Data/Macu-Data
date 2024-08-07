@@ -31,7 +31,6 @@ Es un proyecto centrado en la expansión internacional de una empresa argentina 
 
 Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [GitHub Project](ruta/al/proyecto2)
 
-### Repositorios.
 
 |                               Analytica Solutions                              |                               Digital Energy                                   |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
