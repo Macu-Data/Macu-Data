@@ -14,12 +14,6 @@
 
 Soy un apasionado de la analítica de datos con experiencia en [tus áreas de especialización]. Me especializo en [tecnologías/herramientas que utilizas, por ejemplo, Python, SQL, Power BI] y tengo un enfoque en [tu área de interés, como la optimización de procesos o la visualización de datos].
 
-### Proyectos Destacados.
-
-|                               Analytica Solution                               |                               Digital House                                    |
-|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-|  <img src="https://i.imgur.com/FNPL12r.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/5oBAwpQ.png" style="height: 50%; width:50%;"/>  |
-
 
 
 <!-- Proyectos Destacados -->
@@ -30,6 +24,14 @@ Descripción breve del proyecto. [Enlace al proyecto](https://github.com/No-Coun
 
 ### Digital House
 Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
+
+### Repositorios.
+
+|                               Analytica Solution                               |                               Digital House                                    |
+|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+|  <img src="https://i.imgur.com/FNPL12r.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/5oBAwpQ.png" style="height: 50%; width:50%;"/>  |
+
+
 
 <!-- Experiencia y Habilidades -->
 ## 💼 Experiencia y Habilidades
