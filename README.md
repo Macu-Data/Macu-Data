@@ -14,10 +14,9 @@
 
 
 <!-- Introducción -->
+## 🙋🏻‍♂️ Sobre mí
 
 Soy un apasionado de la analítica de datos con más de doce años de experiencia en contabilidad y análisis de datos. Me especializo en SQL, Power BI y Excel Avanzado, y tengo un enfoque en la optimización de procesos y la visualización de datos. Durante mi carrera, he trabajado en proyectos que abarcan desde el análisis de datos y conciliaciones bancarias hasta la creación de bases de datos y la preparación y análisis de Estados Financieros (EECC).
-
-
 
 <!-- Proyectos Destacados -->
 ## 📈 Proyectos Destacados
@@ -32,7 +31,7 @@ Descripción breve del proyecto. [Enlace al proyecto](ruta/al/proyecto2)
 
 ### Repositorios.
 
-|                               Analytica Solution                               |                               Digital House                                    |
+|                               Analytica Solutions                              |                               Digital House                                    |
 |:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 |  <img src="https://i.imgur.com/FNPL12r.png" style="height: 50%; width:50%;"/>  |  <img src="https://i.imgur.com/5oBAwpQ.png" style="height: 50%; width:50%;"/>  |
 
