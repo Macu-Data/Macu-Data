@@ -60,11 +60,8 @@ Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [`G
 <!-- Footer o Información Adicional -->
 ---
 
-✨ Actualmente, estoy buscando nuevas oportunidades en el análisis de datos. Si tienes un proyecto interesante o una colaboración en mente, ¡no dudes en contactarme!
-
+✨ Pie de pagina, agregar agradecimiento por visitar mi perfil
 
 ## 📊 GitHub Analytics
 
 ![TuNombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macu-Data&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Macu-Data&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
