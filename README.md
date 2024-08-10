@@ -53,13 +53,6 @@ Explora el proyecto completo y el análisis detallado aquí: [`GitHub Project`](
 - **Liderazgo de proyectos:** Capacidad para guiar y motivar equipos a cumplir los objetivos comunes de manera eficiente.
 
 
-<!-- Intereses -->
-## ⚡ Intereses
-
-- **Tecnología WEB3 y Blockchain:** Interesado en las nuevas tecnologías y cómo se integran en el análisis de datos.
-- **Optimización de Procesos:** Buscar constantemente nuevas formas de hacer más eficiente el flujo de trabajo.
-- **Desarrollo Profesional:** Participar en cursos y formaciones continuas para mantenerse al día con las últimas tendencias y herramientas en el campo de Data Analytics.
-
 <!-- Contacto -->
 ## 📫 Contacto
 
