@@ -1,6 +1,5 @@
 ## 👋 Hola, Soy Macu
 
-
 <!-- Banner -->
 <div align="center" style="position: relative;">
   <a href="https://www.linkedin.com/in/fabio-maculus-data-analyst/" style="text-decoration: none;">
@@ -10,8 +9,6 @@
     </div>
   </a>
 </div>
-
-
 
 <!-- Introducción -->
 ## 🙋🏻‍♂️ Sobre mí
@@ -29,7 +26,7 @@ Para más detalles y acceso al proyecto completo, visita el repositorio: [`GitHu
 ### Digital Energy
 Es un proyecto centrado en la expansión internacional de una empresa argentina de hidrocarburos. Nuestro objetivo es identificar los mercados más atractivos para invertir, utilizando una base de datos interna complementada con información externa. Implementamos herramientas de análisis para evaluar indicadores clave y definir estrategias de inversión en nuevas regiones.
 
-Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [`GitHub Project`](https://github.com/Macu-Data/Digital-Energy)
+Explora el proyecto completo y el análisis detallado aquí: [`GitHub Project`](https://github.com/Macu-Data/Digital-Energy)
 
 
 |                               Analytica Solutions                              |                               Digital Energy                                   |
@@ -45,10 +42,12 @@ Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [`G
 - **Visualización de Datos:** Power BI, Tableau.
 - **Gestión de Datos:** Bases de datos SQL, herramientas ETL.
 
-<!-- intereses -->
+<!-- Intereses -->
 ## ⚡ Intereses
 
-- AGREGAR INTERESES
+- **Tecnología WEB3 y Blockchain:** Interesado en las nuevas tecnologías y cómo se integran en el análisis de datos.
+- **Optimización de Procesos:** Buscar constantemente nuevas formas de hacer más eficiente el flujo de trabajo.
+- **Desarrollo Profesional:** Participar en cursos y formaciones continuas para mantenerse al día con las últimas tendencias y herramientas en el campo de Data Analytics.
 
 <!-- Contacto -->
 ## 📫 Contacto
@@ -60,8 +59,8 @@ Explora el proyecto completo y el análisis detallado aquí: GitHub Project. [`G
 <!-- Footer o Información Adicional -->
 ---
 
-✨ Pie de pagina, agregar agradecimiento por visitar mi perfil
+✨ ¡Gracias por visitar mi perfil! Estoy entusiasmado por conectar y explorar oportunidades de colaboración. ¡Nos vemos pronto!
 
 ## 📊 GitHub Analytics
 
-![TuNombre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macu-Data&show_icons=true&theme=radical)
+![Fabio Maculus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Macu-Data&show_icons=true&theme=radical)
