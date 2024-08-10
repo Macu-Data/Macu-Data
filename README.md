@@ -13,7 +13,7 @@
 <!-- Introducción -->
 ## 🙋🏻‍♂️ Sobre mí
 
-Soy un apasionado de la analítica de datos con más de doce años de experiencia en contabilidad y análisis de datos. Me especializo en SQL, Power BI y Excel Avanzado, y tengo un enfoque en la optimización de procesos y la visualización de datos. Durante mi carrera, he trabajado en proyectos que abarcan desde el análisis de datos y conciliaciones bancarias hasta la creación de bases de datos y la preparación y análisis de Estados Financieros (EECC).
+Con una base sólida en contabilidad, mi pasión por la tecnología y el mundo Web3 me llevó al emocionante campo del Data Analytics. He desarrollado habilidades en SQL, Power BI y Excel, enfocándome en la optimización de procesos y la creación de visualizaciones de datos efectivas. Mi objetivo es aplicar estas herramientas para resolver problemas complejos y generar insights valiosos que impulsen decisiones estratégicas. Mi entusiasmo por la innovación y la mejora continua me impulsa a explorar constantemente nuevas tecnologías y metodologías en el análisis de datos.
 
 <!-- Proyectos Destacados -->
 ## 📈 Proyectos Destacados
