@@ -37,7 +37,7 @@ Explora el proyecto completo y el análisis detallado aquí: [`GitHub Project`](
 
 <!-- Experiencia y Habilidades -->
 ## 💼 Experiencia y Habilidades
-
+  - **Habilidades:**
 - **Análisis de Datos:** SQL, Excel Avanzado, técnicas de análisis de comportamiento.
 - **Visualización de Datos:** Power BI, Tableau.
 - **Gestión de Datos:** Bases de datos SQL, herramientas ETL.
