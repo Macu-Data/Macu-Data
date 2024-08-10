@@ -42,12 +42,12 @@ Explora el proyecto completo y el análisis detallado aquí: [`GitHub Project`](
 - **Visualización de Datos:** Power BI, Tableau.
 - **Gestión de Datos:** Bases de datos SQL, herramientas ETL.
 
-- **Aptitudes Interpersonales:**
-  - **Pensamiento crítico:** Capacidad para interpretar datos de manera objetiva y analítica.
-  - **Colaboración en equipo:** Experiencia trabajando en entornos colaborativos multidisciplinarios.
-  - **Resolución de problemas:** Enfoque en identificar soluciones eficientes.
-  - **Gestión del tiempo:** Eficiencia en la organización y priorización de tareas para cumplir plazos.
-  - **Liderazgo de proyectos:** Capacidad para guiar y motivar equipos a cumplir los objetivos comunes de manera eficiente.
+  - **Aptitudes Interpersonales:**
+- **Pensamiento crítico:** Capacidad para interpretar datos de manera objetiva y analítica.
+- **Colaboración en equipo:** Experiencia trabajando en entornos colaborativos multidisciplinarios.
+- **Resolución de problemas:** Enfoque en identificar soluciones eficientes.
+- **Gestión del tiempo:** Eficiencia en la organización y priorización de tareas para cumplir plazos.
+- **Liderazgo de proyectos:** Capacidad para guiar y motivar equipos a cumplir los objetivos comunes de manera eficiente.
 
 
 <!-- Intereses -->
